@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi there, I'm Swaroop 👋
 
-<!--
-**aristrogate/aristrogate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Fresher @ IIT Jodhpur | Aspiring Engineer & Music Producer 
+I am a first-year undergraduate student passionate about low level programing, computer vision and AI driven systems
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack & Toolkit
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | `C` • `C++` |
+| **Web Development** | `HTML5` • `CSS3` |
+| **Frameworks & Libs** | `OpenMP` |
+
+---
+
+## 🧠 Currently Exploring & Learning
+*   **Data Structures & Algorithms (DSA):** Refining problem-solving skills for efficiency and scale.
+*   **Full-Stack Web Dev:** Diving into `React` and `Node.js` for frontend and backend development 
+
+---
+
+## ⚡ Core Interests
+*   **Low-Level Programming:** Understanding hardware execution, memory management, and optimization.
+*   **Computer Vision:** Processing images at system level
+*   **Parallel Computing (OpenMP):** Maximizing performance through multi-threading.
+---
+
+## 📁 Featured Projects
+
+### 🔹 Multi-Threaded Convolution Filters
+> **Tech Stack:** `C++`, `OpenMP`
+*   Developed a high-performance image processing application that applies complex convolution filters (like Gaussian blur, Sobel edge detection) to images.
+*   Leveraged **OpenMP** to parallelize pixel-matrix operations, significantly reducing processing speeds across multi-core CPUs.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=aristrogate &show_icons=true&theme=tokyonight" alt="Swaroop's GitHub Stats" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aristrogate &layout=compact&theme=tokyonight" alt="Top Languages" height="160px" />
+</p>
+
+---
+
+## 📫 Connect with Me
+
+*   **Email:** [b25me1080@iitj.ac.in](mailto:b25me1080@iitj.ac.in)
+*   **LinkedIn:** [Swaroop Charan](https://www.linkedin.com/in/swaroop-charan-9a1341375?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+*   **LeetCode:** [@aristrogate](https://leetcode.com/u/aristrogate/)
