@@ -36,15 +36,6 @@ I am a first-year undergraduate student passionate about low level programing, c
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=aristrogate &show_icons=true&theme=tokyonight" alt="Swaroop's GitHub Stats" height="160px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aristrogate &layout=compact&theme=tokyonight" alt="Top Languages" height="160px" />
-</p>
-
----
-
 ## 📫 Connect with Me
 
 *   **Email:** [b25me1080@iitj.ac.in](mailto:b25me1080@iitj.ac.in)
