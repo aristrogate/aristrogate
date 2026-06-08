@@ -10,7 +10,7 @@ I am a first-year undergraduate student passionate about low level programing, c
 | Category | Technologies |
 | :--- | :--- |
 | **Languages** | `C` • `C++` |
-| **Web Development** | `HTML5` • `CSS3` |
+| **Web Development** | `HTML5` • `CSS3` • `JavaScript` |
 | **Frameworks & Libs** | `OpenMP` |
 
 ---
