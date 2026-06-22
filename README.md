@@ -1,43 +1,54 @@
-# Hi there, I'm Swaroop 👋
+<div align="center">
 
-### 🚀 Fresher @ IIT Jodhpur | Aspiring Engineer & Music Producer 
-I am a first-year undergraduate student passionate about low level programing, computer vision and AI driven systems
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=50&duration=2000&pause=1000&color=ffffff&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Swaroop." alt="Hi, I'm Swaroop." />
 
----
+**ME Undergrad @ IIT Jodhpur**
 
-## 🛠️ Tech Stack & Toolkit
+Building at the intersection of systems, web, and whatever seems interesting.
 
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | `C` • `C++` |
-| **Web Development** | `HTML5` • `CSS3` • `JavaScript` |
-| **Frameworks & Libs** | `OpenMP` |
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swaroop-charan-9a1341375)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/aristrogate/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/aristrogate)
+[![Mail](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:b25me1080@iitj.ac.in)
 
----
-
-## 🧠 Currently Exploring & Learning
-*   **Data Structures & Algorithms (DSA):** Refining problem-solving skills for efficiency and scale.
-*   **Full-Stack Web Dev:** Diving into `React` and `Node.js` for frontend and backend development 
+</div>
 
 ---
 
-## ⚡ Core Interests
-*   **Low-Level Programming:** Understanding hardware execution, memory management, and optimization.
-*   **Computer Vision:** Processing images at system level
-*   **Parallel Computing (OpenMP):** Maximizing performance through multi-threading.
----
+## Tech Stack
 
-## 📁 Featured Projects
-
-### 🔹 Multi-Threaded Convolution Filters
-> **Tech Stack:** `C++`, `OpenMP`
-*   Developed a high-performance image processing application that applies complex convolution filters (like Gaussian blur, Sobel edge detection) to images.
-*   Leveraged **OpenMP** to parallelize pixel-matrix operations, significantly reducing processing speeds across multi-core CPUs.
+**Languages** — `C` `C++` `JavaScript` `SQL`  
+**Frontend** — `React` `HTML5` `CSS3`  
+**Backend / Infra** — `Node.js` `PostgreSQL` `Supabase`  
+**Currently exploring** — `pgvector` `semantic search` `Plasmo`  
+**Other** — `OpenMP` `STL` `Git`
 
 ---
 
-## 📫 Connect with Me
+## Currently Exploring
 
-*   **Email:** [b25me1080@iitj.ac.in](mailto:b25me1080@iitj.ac.in)
-*   **LinkedIn:** [Swaroop Charan](https://www.linkedin.com/in/swaroop-charan-9a1341375?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-*   **LeetCode:** [@aristrogate](https://leetcode.com/u/aristrogate/)
+- **DSA** - Refining problem-solving skills for efficiency and scale
+- **Web dev** - frontend-focused, building real things with React & Node.js
+
+---
+
+## Interests
+
+- Low-level programming — memory, execution, optimization
+- Deep learning / ML fundamentals
+- Web development, especially on the frontend
+
+---
+
+## Projects
+
+### Multi-Threaded Convolution Filters
+`C++` `OpenMP`
+
+Image processing engine applying Gaussian blur, Sobel edge detection, sharpen, emboss, and grayscale filters — parallelized with OpenMP across multi-core CPUs. Includes benchmarks comparing single vs. multi-threaded performance.
+
+---
+
+<div align="center">
+<sub>b25me1080@iitj.ac.in</sub>
+</div>
