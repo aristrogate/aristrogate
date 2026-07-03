@@ -17,11 +17,10 @@ Building at the intersection of systems, web, and whatever seems interesting.
 
 ## Tech Stack
 
-**Languages** — `C` `C++` `JavaScript` `SQL`  
-**Frontend** — `React` `HTML5` `CSS3`  
-**Backend / Infra** — `Node.js` `PostgreSQL` `Supabase`  
-**Currently exploring** — `pgvector` `semantic search` `Plasmo`  
-**Other** — `OpenMP` `STL` `Git`
+**Languages** — `C` `C++` `JavaScript` `Python` `SQL`  
+**Frontend** — `React` `HTML5` `TailwindCSS`  
+**Backend / Infra** — `Node.js` `Express` `PostgreSQL` `MongoDB`  
+**Libraries & Frameworks** — `Pygame` `numpy` `OpenMP` `STL`  
 
 ---
 
