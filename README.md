@@ -46,6 +46,11 @@ Building at the intersection of systems, web, and whatever seems interesting.
 
 Image processing engine applying Gaussian blur, Sobel edge detection, sharpen, emboss, and grayscale filters — parallelized with OpenMP across multi-core CPUs. Includes benchmarks comparing single vs. multi-threaded performance.
 
+### Rocket Genetic Algorithm
+`Python` `Pygame`
+
+Evolution simulation where rockets learn to reach a target through genetic algorithms using natural selection, crossover, and mutation. Visualizes population improvement over generations with obstacle avoidance and fitness-based selection.
+
 ---
 
 <div align="center">
